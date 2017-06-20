@@ -20,7 +20,7 @@
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
-PRODUCT_NAME := omni_gts28vewifi
-PRODUCT_DEVICE := gts28vewifi
+PRODUCT_NAME := omni_gts28velte
+PRODUCT_DEVICE := gts28velte
 PRODUCT_BRAND := Samsung
 PRODUCT_MANUFACTURER := Samsung
